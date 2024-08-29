@@ -31,7 +31,7 @@ cd bd-nid-image-to-text
 ```
 ## Build the Application
 ```bash
-go build -o myapp
+go build -o mlkit
 ```
 ## Move the Executable
 ```bash
